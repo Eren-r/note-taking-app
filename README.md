@@ -20,6 +20,9 @@ A secure and user-friendly Sticky Notes app built with Python. Features include 
 
 
 for run the code Install Dependencies
+
 pip install cryptography speechrecognition pyaudio
+
 pip install pipwin
+
 pipwin install pyaudio
